@@ -99,7 +99,7 @@ manifest:
       path: modules/lib/open-amp
     - name: openthread
       remote: open-degu
-      revision: c4c767ae521c214a3279fb10b01d733abc85b7f0
+      revision: d280a0edb267f4764969e8ee99b9a34517921b4e
       path: modules/lib/openthread
     - name: se_hostlib
       remote: open-degu
